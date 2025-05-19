@@ -2,8 +2,8 @@ builtin:
   disabled:
     - vscode.configuration-editing
     - vscode.css-language-features
-    - vscode.debug-auto-launch
     - vscode.debug-server-ready
+    - vscode.debug-auto-launch
     - vscode.emmet
     - vscode.extension-editing
     - vscode.git
@@ -30,19 +30,19 @@ builtin:
 disabled:
   - id: bibhasdn.unique-lines
     uuid: a225bb1b-d82f-4036-953e-293523b9eb71
-  - id: bierner.markdown-preview-github-styles
-    uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
   - id: bierner.markdown-mermaid
     uuid: f8d0ffc4-66bb-4a9c-8149-ef8f043691a1
+  - id: bierner.markdown-preview-github-styles
+    uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
   - id: docker.docker
     uuid: aa98a064-0f79-4961-a4b7-78df16d547ee
   - id: eamodio.gitlens
     uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
   - id: GitHub.copilot
     uuid: 00000000-0000-0000-0000-000000000000
-  - id: GrapeCity.gc-excelviewer
-    uuid: 00000000-0000-0000-0000-000000000000
   - id: GitHub.copilot-chat
+    uuid: 00000000-0000-0000-0000-000000000000
+  - id: GrapeCity.gc-excelviewer
     uuid: 00000000-0000-0000-0000-000000000000
   - id: Gruntfuggly.todo-tree
     uuid: 261cac81-cd7b-4555-bb41-0c2d2bcd3e70
@@ -58,14 +58,12 @@ disabled:
     uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
   - id: mishkinf.goto-next-previous-member
     uuid: 44453743-abfb-413b-b826-9500986c9ee7
-  - id: ms-azuretools.vscode-docker
-    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: MS-CEINTL.vscode-language-pack-ja
     uuid: 00000000-0000-0000-0000-000000000000
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: nemesv.copy-file-name
     uuid: e7adf68e-1d7a-435a-94f7-08ca70b2139b
-  - id: nonoroazoro.syncing
-    uuid: e7db78ad-ac9f-4919-99bb-3627e07b6d1f
   - id: phoihos.csv-to-md-table
     uuid: 46ba943a-f245-45ad-ab1f-60893c2afcc5
   - id: redhat.vscode-yaml
